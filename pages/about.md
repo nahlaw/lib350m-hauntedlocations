@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/assets/img/aboutpagebanner.jpg %}
+{% include feature/about.html objectid="/assets/img/aboutpagebanner.jpg %}
 
 # **About Our Collection**
 ## **Project Manager: Jayna Cronkrite**
