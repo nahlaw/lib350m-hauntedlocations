@@ -11,7 +11,6 @@ credits: true
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
 
 # **About Our Collection**
-
 ## **Project Manager: Jayna Cronkrite**
 
 Second-year undergraduate studying English as her major. As Project Manager, she submits assignments and keeps the group on track. Learning how to use GitHub and CollectionBuilder has been very insightful for her. Having a love for horror movies, Jayna is really excited to learn about haunted locations in Oregon. Being an out-of-state student, she has found it informative to learn more about Oregon’s rich history - both spooky and otherwise. 
@@ -38,13 +37,13 @@ Our collection is composed of photographs taken by amateur photographers that fo
 
 ## **GLAMS**
 
--flickr
+- flickr
 
--Wikimedia Commons
+- Wikimedia Commons
 
--Oregon Digital
+- Oregon Digital
 
--picryl
+- picryl
 
 ## **Thank you!**
 We want to thank our instructor Franny Gaede for teaching us how to utilize GitHub and CollectionBuilder with her wonderful patience. Also a shout-out to Rayne Vieger and Erin Winter for helping us when needed. We would not be here if our amateur photographers did not get out there and explore Oregon, so a massive thank you to those who made their photographs fair use. Lastly, we would like to thank those who supported us through this project, including one another and our peers outside of the classroom!  
