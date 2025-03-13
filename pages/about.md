@@ -12,19 +12,15 @@ credits: true
 
 # **About Our Collection**
 ## **Project Manager: Jayna Cronkrite**
-
 Second-year undergraduate studying English as her major. As Project Manager, she submits assignments and keeps the group on track. Learning how to use GitHub and CollectionBuilder has been very insightful for her. Having a love for horror movies, Jayna is really excited to learn about haunted locations in Oregon. Being an out-of-state student, she has found it informative to learn more about Oregon’s rich history - both spooky and otherwise. 
 
 ## **Repository Manager: Nahla Wilson**
-
 Third-year undergraduate English Major from Texas with a minor in digital humanities. Duties for this project include customizing their GitHub repository and uploading photos. Growing up and traveling to Oregon to visit family has led her to fall in love with the ambiance of the state. With an immense love for the outdoors and spooky environments, this project has allowed her to explore Oregon’s haunted history while learning how to create a digital collection and navigate the world of coding.
 
 ## **Collection Manager: Kenzie Lyons**
-
 Third-year Political Science Major, customizing metadata and reviewing file details. She is from Oregon and has been to many of the places on this list which made this project super interesting for her as she learned more about her home state and learned how to create a data collection. 
 
 ## **Collection Description**
-
 Our collection is composed of photographs taken by amateur photographers that focus on well-known haunted locations in Oregon. Our aim is to create an easy to use database with something for people looking for all different types of haunts. From abandoned hospitals to underground tunnels, our collection is sure to have something for everyone.
 
 ## **DSCI/LIB 350M (Winter 2025) Human Research Data Management**
@@ -36,7 +32,6 @@ Our collection is composed of photographs taken by amateur photographers that fo
 ## **Course Support: Erin Winter**
 
 ## **GLAMS**
-
 - flickr
 
 - Wikimedia Commons
