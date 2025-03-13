@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/about.html objectid="/assets/img/aboutpagebanner.jpg %}
+{% include feature/jumbotron.html objectid="/assets/img/aboutpagebanner.jpg %}
 
 # **About Our Collection**
 ## **Project Manager: Jayna Cronkrite**
@@ -45,8 +45,3 @@ We want to thank our instructor Franny Gaede for teaching us how to utilize GitH
 
 ## **Ownership**
 We do not own any of the items in this collection. All items are in the public domain. 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-Featured image by [JJ Ying on Unsplash](https://unsplash.com/photos/WmnsGyaFnCQ).
