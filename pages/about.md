@@ -26,7 +26,7 @@ Third-year Political Science Major, customizing metadata and reviewing file deta
 
 ## **Collection Description**
 
-Our collection is composed of photographs taken by amateur photographers that focus on well-known haunted locations in Oregon. Our aim is to create an easy to use database with something for people looking for all different types of haunts. From abandoned hospitals to underground tunnels our collection is sure to have something for everyone.
+Our collection is composed of photographs taken by amateur photographers that focus on well-known haunted locations in Oregon. Our aim is to create an easy to use database with something for people looking for all different types of haunts. From abandoned hospitals to underground tunnels, our collection is sure to have something for everyone.
 
 ## **DSCI/LIB 350M (Winter 2025) Human Research Data Management**
 
