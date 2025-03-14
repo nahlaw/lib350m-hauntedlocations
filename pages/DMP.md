@@ -11,9 +11,9 @@ Our collection is focused on Haunted Locations in Oregon. We welcome those who a
 
 # Personnel, Roles & Responsibilities:
 
-Project Manager: Jayna Cronkrite, Second-Year English Major, submits assignments and keeps the group on track.   
-Repository Manager: Nahla Wilson, Third-Year English Major, customizing GitHub repository and uploading photos.  
-Collection Manager: Kenzie Lyons, Third-Year Political Science Major, customizing metadata and reviewing file details.
+- Project Manager: Jayna Cronkrite, Second-Year English Major, submits assignments and keeps the group on track.   
+- Repository Manager: Nahla Wilson, Third-Year English Major, customizing GitHub repository and uploading photos.  
+- Collection Manager: Kenzie Lyons, Third-Year Political Science Major, customizing metadata and reviewing file details.
 
 
 These are our general roles. The division of roles allows us to cover all bases and by having an expert on each front, attention to detail is achieved.
