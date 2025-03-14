@@ -8,8 +8,6 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/assets/img/aboutpagebanner.jpg %}
-
 # **About Our Collection**
 ## **Project Manager: Jayna Cronkrite**
 Second-year undergraduate studying English as her major. As Project Manager, she submits assignments and keeps the group on track. Learning how to use GitHub and CollectionBuilder has been very insightful for her. Having a love for horror movies, Jayna is really excited to learn about haunted locations in Oregon. Being an out-of-state student, she has found it informative to learn more about Oregon’s rich history - both spooky and otherwise. 
