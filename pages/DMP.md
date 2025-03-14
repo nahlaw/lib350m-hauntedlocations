@@ -32,7 +32,7 @@ We plan on retaining our data until this term ends. We do not plan on keeping up
 
 Our collected photos are all in .JPEG format, which were then uploaded to our GitHub repository. We have a total of 21 photos, adding up to 11.2 MB. All photos are taken from places like Creative Commons which allow users to access photos online that are free to all people to use however they intend. When using photos with this licensing we do not have to worry about copyright restrictions. 
 
-Dissemination is possible through the use of GitHub. These items can be accessed through our GitHub repository which can be reached here: https://github.com/nahlaw/lib350m-hauntedlocations. 
+Dissemination is possible through the use of GitHub. These items can be accessed through our GitHub repository which can be reached here: [(https://github.com/nahlaw/lib350m-hauntedlocations)]. 
 
 # Data Storage and Preservation of Access:
 
